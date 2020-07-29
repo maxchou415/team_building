@@ -29,7 +29,7 @@ Understand the team work-flow, such as:
 
 1. When is a good moment to ask other teammates about the problem you meet, or been blocked?
 2. How to schedule a meeting if you need additional help from your team?
-3. How to do if you are unable to deliver your task in the time you scheduled with your team?
+3. How to do if you are unable to deliver your task on the time you scheduled with your team?
 4. How to reschedule a task-assignment?
 5. When you meet a block, who should be reported to?
 6. How to do if you cannot get help from your direct reporter/manager?
