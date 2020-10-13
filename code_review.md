@@ -9,7 +9,7 @@ After several years of exploring how to make my team members comfortable while i
 
 ## Pull Request
 
-# Commit your code
+### Commit your code
 Before submitting the Pull Request, make sure all commits are able and easy to understand, also clearly to people in the team, not an only reviewer.
 
 Good (one commit)
@@ -26,7 +26,7 @@ Bad (one commit)
 
 We expect that range of change in each commit can be as small as possible, but in case of complex changes such as front-end component changes, CSS changes, you can try to use this way to describe your commit.
 
-# Pull Request
+### Pull Request
 TODO: How to create a pull request.
 
 As a reviewer, we review several code reviews per day, but what is better to make our code review more understandable to code provider? We need to comment if we see if there is something that can improve, or a expect error happen.
